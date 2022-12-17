@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:udemy-clone}/db.sqlite3",
+            "name": "udemy-db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
